@@ -1,0 +1,35 @@
+
+--- New User Registration ---
+Timestamp: 2025-04-30T02:11:01.356Z
+Email: koraim@myumanitoba.ca
+
+Password: 0102811183
+----------------------------------------
+
+--- New User Registration ---
+Timestamp: 2025-04-30T02:11:19.685Z
+Email: koraim@myumanitoba.ca
+
+Password: 0102811183
+----------------------------------------
+
+--- New User Registration ---
+Timestamp: 2025-04-30T02:14:38.610Z
+Email: koraim@myumanitoba.ca
+
+Password: 0102811183
+----------------------------------------
+
+--- New User Registration ---
+Timestamp: 2025-04-30T02:22:08.778Z
+Email: koraim@myumanitoba.ca
+
+Password: 0102811183
+----------------------------------------
+
+--- New User Registration ---
+Timestamp: 2025-04-30T02:22:19.361Z
+Email: koraim@myumanitoba.ca
+
+Password: 0102811183
+----------------------------------------
